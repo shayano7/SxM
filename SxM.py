@@ -303,7 +303,7 @@ def menu(my_name,my_id):
 	fx = mark(sg, style=' bold green')
 	sol().print(fx)
 	print(x+'['+h+'✓'+x+'] NAME   SHAYAN-SULEMAN : '+str(my_name))
-	print(x+'['+h+'✓'+x+'] USER ID SHAYAN      : '+str(my_id))
+	print(x+'['+h+'✓'+x+'] USER ID 100027564575369     : '+str(my_id))
 	print(x+'['+h+'✓'+x+'] IP ADDRESS    : '+str(sh['origin']))
 	io = '''[bold green]║01║ DUMP ID FROM PUBLIK	    
 ║02║ DUMP ID FROM  PUBLIK (MASAL)   
